@@ -1,0 +1,7 @@
+sklearn
+requests
+BeautifulSoup
+pandas
+numpy
+seaborn
+re
